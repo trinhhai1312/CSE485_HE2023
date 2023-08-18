@@ -33,9 +33,7 @@
         </div>
         <table class="table table-striped mt-1">
             <thead>
-            <!--        table row-->
             <tr class="border">
-                <!--            table heading-->
                 <th>#</th>
                 <th>Channel Name</th>
                 <th>Description</th>
